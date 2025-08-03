@@ -4,14 +4,20 @@ Welcome to my cybersecurity portfolio. Each project below demonstrates my abilit
 
 ## 🔧 Projects
 
-🔹 [Quantitative Log Scanner](https://github.com/adammukdad/log-scanner-python)  
+🔹 [**Quantitative Log Scanner**](https://github.com/adammukdad/log-scanner-python)  
 A Python tool that parses and visualizes log data for threat detection and operational insights.
 
-🔹 [AWS S3 Auditor](https://github.com/adammukdad/aws-s3-auditor)  
+🔹 [**AWS S3 Auditor**](https://github.com/adammukdad/aws-s3-auditor)  
 Audits AWS S3 buckets for misconfigurations and over-permissive access controls.
 
-🔹 [IAM Policy Analyzer](https://github.com/adammukdad/iam-policy-analyzer)  
+🔹 [**IAM Policy Analyzer**](https://github.com/adammukdad/iam-policy-analyzer)  
 Scans IAM policies to identify overly permissive privileges and visualize access risks.
+
+🔹 [**Multi-Cloud Threat Intelligence Dashboard**](https://github.com/adammukdad/multi_cloud_threat_intelligence_dashboard)  
+  Correlates security alerts from AWS and Azure to reveal real threats across cloud environments.
+
+🔹 [**Secure Cloud Deployment Pipeline**](https://github.com/adammukdad/secure_cloud_deployment_pipeline_terraform)  
+  Hardened CI/CD pipeline with Terraform and Checkov that blocks insecure infrastructure before deployment.
 
 ---
 
